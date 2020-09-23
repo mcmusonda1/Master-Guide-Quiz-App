@@ -1,0 +1,242 @@
+[
+{
+    "question": "The Lisbon earth quake occurred in",
+    "choice1": 1880,
+    "choice2": 1755,
+    "choice3": 1680,
+    "choice4": 1980,
+    "answer": 2
+},
+{
+    "question": "Which missonary is commonly known as the missionary to the world?",
+    "choice1": "Joseph Bates",
+    "choice2": "Joseph Wolf",
+    "choice3": "William Miller",
+    "choice4": "John Wycliffe",
+    "answer": 2
+},
+{
+    "question": "Who was the first General Conference president?",
+    "choice1": "John Byington",
+    "choice2": "James White",
+    "choice3": "Uriah Smith",
+    "choice4": "Ted Wilson",
+    "answer": 1
+},
+{
+    "question": "Who was the first CBC Youth Director?",
+    "choice1": "Pr. Angel Chipulu",
+    "choice2": "Pr. Christopher Mwampokota",
+    "choice3": "Pr. Norman Kasuba",
+    "choice4": "Pr. Chibwabwa",
+    "answer": 2
+},
+{
+    "question": "When was CBC formed?",
+    "choice1": "2014",
+    "choice2": "2010",
+    "choice3": "2015",
+    "choice4": "2020",
+    "answer": 3
+},
+{
+    "question": "Who is the current CZC Executive Secretary?",
+    "choice1": "Pr. Angel Chipulu",
+    "choice2": "Pr. Webster Chabe",
+    "choice3": "Pr. John Mulungwe",
+    "choice4": "Pr. Zemba",
+    "answer": 1
+},
+{
+    "question": "Where are the head offices for NWZC?",
+    "choice1": "Mushindamo",
+    "choice2": "Chingola",
+    "choice3": "Solwezi",
+    "choice4": "Kabompo",
+    "answer": 3
+},
+{
+    "question": "When was Musofu Mission opened?",
+    "choice1": 1917,
+    "choice2": 1925,
+    "choice3": 1850,
+    "choice4": 1905,
+    "answer": 1
+},
+{
+    "question": "When was the name Seventh-day Adventist Church was adopted ?",
+    "choice1": 1847,
+    "choice2": 1863,
+    "choice3": 1860,
+    "choice4": 1865,
+    "answer": 2
+},
+{
+    "question": "Who was the longest serving General Conference president?",
+    "choice1": "Jan Paulsen",
+    "choice2": "James White",
+    "choice3": "A.G Daniels",
+    "choice4": "Ted Wilson",
+    "answer": 3
+},
+{
+    "question": "The church of God is founded on?",
+    "choice1": "John",
+    "choice2": "Jesus Christ",
+    "choice3": "Peter",
+    "choice4": "James",
+    "answer": 2
+},
+{
+    "question": "What is the meaning of Time, Times and a dividing of Times?",
+    "choice1": 2300,
+    "choice2": 1260,
+    "choice3": 1300,
+    "choice4": 1104,
+    "answer": 2
+},
+{
+    "question": "The Bible was written approximately",
+    "choice1": "1000 years",
+    "choice2": "1200 years",
+    "choice3": "2000 years",
+    "choice4": "1500 years",
+    "answer": 4
+},
+{
+    "question": "How many books are in the Old Testament",
+    "choice1": 38,
+    "choice2": 37,
+    "choice3": 39,
+    "choice4": 27,
+    "answer": 3
+},
+{
+    "question": "When was the condordant Treaty Signed",
+    "choice1": 1929,
+    "choice2": 1844,
+    "choice3":1798,
+    "choice4": 1904,
+    "answer": 1
+},
+{
+    "question": "When was the KJV Authorized?",
+    "choice1": 1914,
+    "choice2": 1611,
+    "choice3": 1614,
+    "choice4": 1710,
+    "answer": 2
+},
+{
+    "question": "When was the annointing of Jesus Christ Take place?",
+    "choice1": "Baptism",
+    "choice2": "Birth",
+    "choice3": "Crucifixion",
+    "choice4": "Mountain",
+    "answer": 1
+},
+{
+    "question": "Who wrote the book of Ruth?",
+    "choice1": "Ruth",
+    "choice2": "Samuel",
+    "choice3": "Ezra",
+    "choice4": "Moses",
+    "answer": 2
+},
+{
+    "question": "When did the special privileges granted to the jews end?",
+    "choice1": "31 AD",
+    "choice2": "34 AD",
+    "choice3": "50 AD",
+    "choice4": "27 AD",
+    "answer": 2
+},
+{
+    "question": "The papacy received a deadly wound in?",
+    "choice1": 2300,
+    "choice2": 1844,
+    "choice3": 1798,
+    "choice4": 538,
+    "answer": 3
+},
+{
+    "question": "When was Pathfinder Club oraganized?",
+    "choice1": 1949,
+    "choice2": 1948,
+    "choice3": 1950,
+    "choice4": 1907,
+    "answer": 3
+},
+{
+    "question": "Where was the first pathfinder club in africa",
+    "choice1": "Zambia",
+    "choice2": "Zimbambwe",
+    "choice3": "South Africa",
+    "choice4": "Kenya",
+    "answer": 2
+},
+{
+    "question": "How many progressive classes are in the pathfinder curriculum?",
+    "choice1": 10,
+    "choice2": 6,
+    "choice3": 5,
+    "choice4": 12 ,
+    "answer": 2
+},
+{
+    "question": "Who was the first World Pathfinder Director?",
+    "choice1": "John Hancock",
+    "choice2": "James White",
+    "choice3": "Busi Khumalo",
+    "choice4": "Lawrence Skinner",
+    "answer": 4
+},
+{
+    "question": "Which of the following is not a conference event?",
+    "choice1": "Pathfinder Camporee",
+    "choice2": "Pathfinder Rally",
+    "choice3": "Pathfinder Hiking",
+    "choice4": "Pathfider Fair",
+    "answer": 3
+},
+{
+    "question": "How many progressive classes are in the adveventurer curriculum?",
+    "choice1": 6,
+    "choice2": 4,
+    "choice3": 7,
+    "choice4": 9,
+    "answer": 1
+},
+{
+    "question": "When should uniforms not be worn?",
+    "choice1": "Regular club meetings",
+    "choice2": "General Church worship",
+    "choice3": "Special programs",
+    "choice4": "Investiture Service",
+    "answer": 2
+},
+{
+    "question": "Who is responsible for leading out in worship and special services and who will take a personal interest in the spiritual development of every Adventurer and staff member within the club?",
+    "choice1": "Pastor",
+    "choice2": "Chaplain",
+    "choice3": "Deputy Director",
+    "choice4": "Secretary",
+    "answer": 2
+},
+{
+    "question": "Who is not a member of the Adventurer Executive Committee?",
+    "choice1": "Parent",
+    "choice2": "Treasurer",
+    "choice3": "Secretary",
+    "choice4": "Counselor",
+    "answer": 4
+},
+{
+    "question": "Who keeps records and compile regular reports for the conference in the Adventurer Club?",
+    "choice1": "Deputy Director",
+    "choice2": "Secretary",
+    "choice3": "Director",
+    "choice4": "Instructor",
+    "answer": 1
+}
+]
